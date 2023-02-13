@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SettingsProvider xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Services.Settings">
+  <generalSetting>
+    <AutoLogin i:nil="true" />
+    <AutoStart i:nil="true" />
+    <AutoStartType>LockType</AutoStartType>
+    <LockModeTime>m1</LockModeTime>
+    <UseLockMode i:nil="true" />
+  </generalSetting>
+  <profileSetting>
+    <AllowIDSearch i:nil="true" />
+  </profileSetting>
+</SettingsProvider>

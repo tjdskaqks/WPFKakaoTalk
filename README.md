@@ -37,9 +37,9 @@ WPF로 KakaoTalk PC버전 클론 프로젝트 입니다. <br/>
 | Name | Version |
 | --- | --- |
 | **LogHelper**<br/>Log | ![NETFramework45](https://img.shields.io/badge/.NET%20Framework-4.5-orange)<br/>self-production
-| **Microsoft.Toolkit.Mvvm**<br/>MVVM | 7.1.2 |
+| **CommunityToolkit.Mvvm**<br/>MVVM | 8.1.0 |
 | **Microsoft.Xaml.Behaviors**<br/>MVVM |  |
-| **Microsoft.Extensions.DependencyInjection**<br />DependencyInjection | 6.0.0 |
+| **Microsoft.Extensions.DependencyInjection**<br />DependencyInjection | 7.0.0 |
 
 
 ***

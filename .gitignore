@@ -1,0 +1,11 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/Common/obj
+/MainEntry/bin/Debug/net7.0-windows10.0.19041.0/Log/__WPFKakaoTalk__/2023-02-13
+/MainEntry/obj
+/Models/obj
+/Services/obj
+/ViewModels/obj
+/Views/obj

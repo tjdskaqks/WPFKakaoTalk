@@ -1,7 +1,7 @@
 ﻿using Common.Base;
 using Common.Extensions;
-using Microsoft.Toolkit.Mvvm.Input;
-using Microsoft.Toolkit.Mvvm.Messaging;
+using CommunityToolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.Messaging;
 using Models;
 using Services;
 using System;
