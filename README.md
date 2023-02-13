@@ -28,7 +28,7 @@ WPF로 KakaoTalk PC버전 클론 프로젝트 입니다. <br/>
 
 | Name| Framework | Build Status |
 | --- | --- | --- | 
-| **WPFKakaoTalk**<br />main application project | ![NET6](https://img.shields.io/badge/.NET-6.0-red)<br/>(Windows Only) | None
+| **WPFKakaoTalk**<br />main application project | ![NET7](https://img.shields.io/badge/.NET-7.0-red)<br/>(Windows Only) | None
 
 
 📕 library to use
