@@ -12,7 +12,7 @@
 	* 로그 관련
 		- LogHelper / 자체 제작
 	* MVVM 관련
-		- Microsoft.Toolkit.Mvvm / ver : 7.1.2
+		- CommunityToolkit.Mvvm / ver : 7.1.2
 		- Microsoft.Xaml.Behaviors
 	* DependencyInjection 관련
 		- Microsoft.Extensions.DependencyInjection / ver : 6.0.0
